@@ -91,7 +91,9 @@ Navigate to the project folder and open GitHubRepositoriesApp.xcodeproj.
 
 # Future Enhancements
 • Add search functionality to filter repositories by name.
+
 • Implement pull-to-refresh for the repositories list.
+
 • Add unit tests for ViewModels and networking layer.
 
 # License
